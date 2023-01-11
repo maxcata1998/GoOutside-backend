@@ -1,11 +1,5 @@
 # GoOutside-backend
 
-## Team Trident
-### Group members:
-
-*   Cuiqi Zheng
-*   Lingxin Ma
-*   Xiao Ma
 
 ### Project name: GoOutside
 
